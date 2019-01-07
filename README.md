@@ -7,7 +7,7 @@ A full-stack developer who prides herself on her ability to pick up new things q
 - Durham University graduate
 - Ditched law books for [Ruby docs](http://ruby-doc.org/)
 - Lover of all things linguistic
-- Survivor of Makers Academy intensive bootcamp
+- Survivor of [Makers Academy](https://makers.tech/) 16-week intensive bootcamp
 
 ## Skills
 
