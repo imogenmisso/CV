@@ -37,7 +37,7 @@ During final projects at Makers Academy we had 10 days to develop a product of o
 
 | Project        | Timeframe | Summary           | Technologies |
 | :-------------: | :-----:| :-------------:| :-----:|
-| [Borris Bikes](https://github.com/imogenmisso/borris_bikes) | 1 week | Completed during week 1 of Makers. Compare with other repositories to see how I have progressed as a developer | Ruby, RSpec |
+| [Boris Bikes](https://github.com/imogenmisso/borris_bikes) | 1 week | Completed during week 1 of Makers. Compare with other repositories to see how I have progressed as a developer | Ruby, RSpec |
 | [Thermostat](https://github.com/imogenmisso/Thermostat) | 1 week | Completed during week 5 of Makers. First JavaScript project | JavaScript, Jasmine, jQuery, CSS, HTML |
 | [News Summary](https://github.com/imogenmisso/news-summary-challenge) | 1 weekend | Single page web app written in vanilla JavaScript. Tested using my own testing framework | JavaScript, CSS, HTML, Guardian API |
 | [Makers BnB](https://github.com/rbbri/makersbnb) | 1 week | First team project mimicking an online property listing website | Rails, RSpec, ActiveRecord, Bootstrap, Travis CI, Sinatra, Capybara, BCrypt |
@@ -61,7 +61,7 @@ During final projects at Makers Academy we had 10 days to develop a product of o
 #### Ole Languages (September 2017 to December 2017)
 
 - Completed 10 week beginners intensive Spanish course in Barcelona
-- 20 lessons/week s
+- 20 lessons/week
 
 #### Durham University / Collingwood College (September 2014 to June 2017)
 
