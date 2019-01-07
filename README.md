@@ -27,7 +27,7 @@ During all 3 engineering projects at Makers Academy I was the strict enforcer of
 
 Whether at an intensive Spanish course or a programming bootcamp I have remained committed to continuously challenging myself and persevere with any task I am set.
 
-#### Fast-learner
+#### Fast Learner
 
 Makers bootcamp teaches you to never feel satisfied with your level of knowledge. Once you've conquered your understanding of one concept, you are merely a step closer to your next goal. I've felt myself subconsciously adopting this mentality and now have an insatiable curiosity to learn and find answers.
 
