@@ -58,6 +58,11 @@ During final projects at Makers Academy we had 10 days to develop a product of o
 - HTML, CSS, jQuery
 - Swift 4, XCode 9
 
+#### Ole Languages (September 2017 to December 2017)
+
+- Completed 10 week beginners intensive Spanish course in Barcelona
+- 20 lessons/week s
+
 #### Durham University / Collingwood College (September 2014 to June 2017)
 
 - Law, LLB (Hons)
