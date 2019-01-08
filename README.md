@@ -1,6 +1,6 @@
 <h1 align=center>Imogen Misso</h1>
 
-<p align=center>[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)</p>
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 A full-stack developer who prides herself on her ability to pick up new things quickly and bring enthusiasm and positive energy into any team.
 
