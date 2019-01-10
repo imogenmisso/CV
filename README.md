@@ -83,13 +83,13 @@ During final projects at Makers Academy we had 10 days to develop a product of o
 ## Experience
 
 **White & Case LLP** (September 2017)    
-- *2 week paid internship*  
+<br>*2 week paid internship*  
 
 **3 Verulam Buildings Chambers** (September 2016)   
-- *Mini-pupillage*
+<br>*Mini-pupillage*
 
 **Lyst** (September 2015)
-- *1 week legal work experience*
+<br>*1 week legal work experience*
 
 ## Interests
 
