@@ -59,7 +59,7 @@ During final projects at Makers Academy we had 10 days to develop a product of o
 - HTML, CSS, jQuery, postgreSQL
 - Swift 4, XCode 9
 
-#### Ole Languages (September 2017 to December 2017)
+#### Olé Languages (September 2017 to December 2017)
 
 - Completed 10 week beginners intensive Spanish course in Barcelona
 - 20 lessons/week
