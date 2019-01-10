@@ -13,12 +13,12 @@ A full-stack developer who prides herself on her ability to pick up new things q
 
 | Project        | Timeframe | Summary           | Technologies |
 | :-------------: | :-----:| :-------------:| :-----:|
-| [Boris Bikes](https://github.com/imogenmisso/borris_bikes) Completed during Week 1 of Makers | 1 week | Compare with other repositories to see how I have progressed as a developer | Ruby, RSpec |
-| [Thermostat](https://github.com/imogenmisso/Thermostat) Completed during Week 5 of Makers | 1 week | First JavaScript project. Fetches data from external API to display weather in different cities | JavaScript, Jasmine, jQuery, CSS, HTML |
-| [News Summary](https://github.com/imogenmisso/news-summary-challenge) Completed during Week 7 of Makers | 1 weekend | Single page web app written in vanilla JavaScript. Tested using my own testing framework | JavaScript, CSS, HTML, Guardian API |
-| [Makers BnB](https://github.com/rbbri/makersbnb) Completed during Week 6 of Makers | 1 week | First team project mimicking an online property listing website | Rails, RSpec, ActiveRecord, Bootstrap, Travis CI, Sinatra, Capybara, BCrypt |
-| Acebook ([frontend](https://github.com/runticle/Acebook-frontend)/[backend](https://github.com/toddpla/acebook-stars)) Completed during Weeks 8-9 of Makers | 2 weeks | Second engineering project at Makers. Recreated a popular social media website with dynamic requirements sent from coach | Rails, RSpec, React frontend, API backend, Devise, Bootstrap, Travis CI, Heroku |
-| [SwiftCards](https://github.com/IrinaSTA/swiftcards) Completed during Weeks 10-12 of Makers| 2 weeks | Final project at Makers. Built a mobile app in Swift for a virtual deck of cards |  Swift, XCode, Travis CI |
+| [Boris Bikes](https://github.com/imogenmisso/borris_bikes) <br>Completed during __Week 1__ of Makers | 1 week | Compare with other repositories to see how I have progressed as a developer | Ruby, RSpec |
+| [Thermostat](https://github.com/imogenmisso/Thermostat) <br>Completed during __Week 5__ of Makers | 1 week | First JavaScript project. Fetches data from external API to display weather in different cities | JavaScript, Jasmine, jQuery, CSS, HTML |
+| [News Summary](https://github.com/imogenmisso/news-summary-challenge) <br> Completed during __Week 7__ of Makers | 1 weekend | Single page web app written in vanilla JavaScript. Tested using my own testing framework | JavaScript, CSS, HTML, Guardian API |
+| [Makers BnB](https://github.com/rbbri/makersbnb) <br> Completed during __Week 6__ of Makers | 1 week | First team project mimicking an online property listing website | Rails, RSpec, ActiveRecord, Bootstrap, Travis CI, Sinatra, Capybara, BCrypt |
+| Acebook ([frontend](https://github.com/runticle/Acebook-frontend)/[backend](https://github.com/toddpla/acebook-stars)) <br> Completed during __Weeks 8-9__ of Makers | 2 weeks | Second engineering project at Makers. Recreated a popular social media website with dynamic requirements sent from coach | Rails, RSpec, React frontend, API backend, Devise, Bootstrap, Travis CI, Heroku |
+| [SwiftCards](https://github.com/IrinaSTA/swiftcards) <br> Completed during __Weeks 10-12__ of Makers| 2 weeks | Final project at Makers. Built a mobile app in Swift for a virtual deck of cards |  Swift, XCode, Travis CI |
 
 ## Skills
 
