@@ -53,9 +53,10 @@ During final projects at Makers Academy we had 10 days to develop a product of o
 - OOD, TDD, SOLID, MVC
 - Agile/XP
 - Software Craftsmanship
+- Pair programming
 - Ruby, Rails, JavaScript, React
 - RSpec, Jasmine
-- HTML, CSS, jQuery
+- HTML, CSS, jQuery, postgreSQL
 - Swift 4, XCode 9
 
 #### Ole Languages (September 2017 to December 2017)
