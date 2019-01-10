@@ -1,13 +1,24 @@
 <h1 align=center>Imogen Misso</h1>
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 A full-stack developer who prides herself on her ability to pick up new things quickly and bring enthusiasm and positive energy into any team.
 
 - Durham University graduate
-- Ditched law books for [Ruby docs](http://ruby-doc.org/)
+- Ditched law books for Ruby docs
 - Lover of all things linguistic
 - Survivor of [Makers Academy](https://makers.tech/) 16-week intensive bootcamp
+
+## Projects
+
+| Project        | Timeframe | Summary           | Technologies |
+| :-------------: | :-----:| :-------------:| :-----:|
+| [Boris Bikes](https://github.com/imogenmisso/borris_bikes) Completed during Week 1 of Makers | 1 week | Compare with other repositories to see how I have progressed as a developer | Ruby, RSpec |
+| [Thermostat](https://github.com/imogenmisso/Thermostat) Completed during Week 5 of Makers | 1 week | First JavaScript project. Fetches data from external API to display weather in different cities | JavaScript, Jasmine, jQuery, CSS, HTML |
+| [News Summary](https://github.com/imogenmisso/news-summary-challenge) Completed during Week 7 of Makers | 1 weekend | Single page web app written in vanilla JavaScript. Tested using my own testing framework | JavaScript, CSS, HTML, Guardian API |
+| [Makers BnB](https://github.com/rbbri/makersbnb) Completed during Week 6 of Makers | 1 week | First team project mimicking an online property listing website | Rails, RSpec, ActiveRecord, Bootstrap, Travis CI, Sinatra, Capybara, BCrypt |
+| Acebook ([frontend](https://github.com/runticle/Acebook-frontend)/[backend](https://github.com/toddpla/acebook-stars)) Completed during Weeks 8-9 of Makers | 2 weeks | Second engineering project at Makers. Recreated a popular social media website with dynamic requirements sent from coach | Rails, RSpec, React frontend, API backend, Devise, Bootstrap, Travis CI, Heroku |
+| [SwiftCards](https://github.com/IrinaSTA/swiftcards) Completed during Weeks 10-12 of Makers| 2 weeks | Final project at Makers. Built a mobile app in Swift for a virtual deck of cards |  Swift, XCode, Travis CI |
 
 ## Skills
 
@@ -32,17 +43,6 @@ Whether at an intensive Spanish course or a programming bootcamp I have remained
 Makers bootcamp teaches you to never feel satisfied with your level of knowledge. Once you've conquered your understanding of one concept, you are merely a step closer to your next goal. I've felt myself subconsciously adopting this mentality and now have an insatiable curiosity to learn and find answers.
 
 During final projects at Makers Academy we had 10 days to develop a product of our choice, which we would then present to an audience of about 100 people. My team decided to stretch ourselves further by creating our app in Swift, a language none of us had any experience in. We created an awesome app that simulates a deck of cards.
-
-## Projects
-
-| Project        | Timeframe | Summary           | Technologies |
-| :-------------: | :-----:| :-------------:| :-----:|
-| [Boris Bikes](https://github.com/imogenmisso/borris_bikes) | 1 week | Completed during week 1 of Makers. Compare with other repositories to see how I have progressed as a developer | Ruby, RSpec |
-| [Thermostat](https://github.com/imogenmisso/Thermostat) | 1 week | Completed during week 5 of Makers. First JavaScript project | JavaScript, Jasmine, jQuery, CSS, HTML |
-| [News Summary](https://github.com/imogenmisso/news-summary-challenge) | 1 weekend | Single page web app written in vanilla JavaScript. Tested using my own testing framework | JavaScript, CSS, HTML, Guardian API |
-| [Makers BnB](https://github.com/rbbri/makersbnb) | 1 week | First team project mimicking an online property listing website | Rails, RSpec, ActiveRecord, Bootstrap, Travis CI, Sinatra, Capybara, BCrypt |
-| Acebook ([frontend](https://github.com/runticle/Acebook-frontend)/[backend](https://github.com/toddpla/acebook-stars)) | 2 weeks | Second engineering project at Makers. Recreated a popular social media website with dynamic requirements sent from coach | Rails, RSpec, React frontend, API backend, Devise, Bootstrap, Travis CI, Heroku |
-| [SwiftCards](https://github.com/IrinaSTA/swiftcards) | 2 weeks | Final project at Makers. Built a mobile app in Swift for a virtual deck of cards |  Swift, XCode, Travis CI |
 
 
 ## Education
