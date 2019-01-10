@@ -97,3 +97,5 @@ During final projects at Makers Academy we had 10 days to develop a product of o
 - *Cooking* - after a day sat at the desk I like to unwind by cooking up a delicious vegan meal (yes, vegan food can be delicious!)
 - *Travelling* - I spent my gap year avoiding the British weather by visiting Europe, South & Central America and Asia.
 - *Chess* - amateur player but I'll challenge anyone to a game!
+
+--------------------------------------------------------
