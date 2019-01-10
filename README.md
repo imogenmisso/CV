@@ -99,3 +99,6 @@ During final projects at Makers Academy we had 10 days to develop a product of o
 - *Chess* - amateur player but I'll challenge anyone to a game!
 
 --------------------------------------------------------
+
+<h3 align=center> imogenmisso@hotmail.co.uk | +447528633162 </h3>
+[![Alt text](linkedinlogo.png)](https://www.linkedin.com/in/imogen-misso-937b98177/) | [![Alt text](githublogo.png)](https://github.com/imogenmisso)
