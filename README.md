@@ -98,7 +98,6 @@ During final projects at Makers Academy we had 10 days to develop a product of o
 - *Travelling* - I spent my gap year avoiding the British weather by visiting Europe, South & Central America and Asia.
 - *Chess* - amateur player but I'll challenge anyone to a game!
 
---------------------------------------------------------
-
-<h3 align=center> imogenmisso@hotmail.co.uk | +447528633162 </h3>
-[![Alt text](githublogo.png)](https://github.com/imogenmisso) [![Alt text](linkedinlogo.png)](https://www.linkedin.com/in/imogen-misso-937b98177/)
+-------------------------------------------------------
+imogenmisso@hotmail.co.uk | +447528633162 <br>
+[![Github pic](githublogo.png)](https://github.com/imogenmisso) [![Linkedin logo](linkedinlogo.png)](https://www.linkedin.com/in/imogen-misso-937b98177/)
