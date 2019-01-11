@@ -100,5 +100,6 @@ During final projects at Makers Academy we had 10 days to develop a product of o
 
 -------------------------------------------------------
 <h2 align=center>imogenmisso@hotmail.co.uk | +447528633162 <br>
+  <br>
 
 [![Github pic](githublogo.png)](https://github.com/imogenmisso) [![Linkedin logo](linkedinlogo.png)](https://www.linkedin.com/in/imogen-misso-937b98177/)
