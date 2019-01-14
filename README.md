@@ -19,7 +19,7 @@ A full-stack developer who prides herself on her ability to pick up new things q
 | **[News Summary](https://github.com/imogenmisso/news-summary-challenge)** <br> Completed during __Week 7__ of Makers | 1 weekend | Single page web app written in vanilla JavaScript. Tested using my own testing framework | JavaScript, CSS, HTML, Guardian API |
 | **[Makers BnB](https://github.com/rbbri/makersbnb)** <br> Completed during __Week 6__ of Makers | 1 week | First team project mimicking an online property listing website | Rails, RSpec, ActiveRecord, Bootstrap, Travis CI, Sinatra, Capybara, BCrypt |
 | **Acebook** ([frontend](https://github.com/runticle/Acebook-frontend)/[backend](https://github.com/toddpla/acebook-stars)) <br> Completed during __Weeks 8-9__ of Makers | 2 weeks | Second engineering project at Makers. Recreated a popular social media website with dynamic requirements sent from coach | Rails, RSpec, React frontend, API backend, Devise, Bootstrap, Travis CI, Heroku |
-| **[SwiftCards](https://github.com/IrinaSTA/swiftcards)** <br> Completed during __Weeks 10-12__ of Makers| 2 weeks | Final project at Makers. Built a mobile app in Swift for a virtual deck of cards |  Swift, XCode, Travis CI |
+| **[SwiftCards](https://github.com/IrinaSTA/swiftcards)** <br> Completed during __Weeks 11-12__ of Makers| 2 weeks | Final project at Makers. Built a mobile app in Swift for a virtual deck of cards |  Swift, XCode, Travis CI |
 
 ## Skills
 
